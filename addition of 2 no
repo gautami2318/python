@@ -1,0 +1,4 @@
+no1=input("enter 1st no:")
+no2=input("enter 2nd no:")
+no3=int(no1)+int(no2)
+print(no3)
