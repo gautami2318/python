@@ -1,0 +1,5 @@
+Name="Gautami"#string
+Age=20
+price=25.36
+
+print(Name)
