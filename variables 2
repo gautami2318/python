@@ -1,0 +1,6 @@
+Name="Gautami"#string
+Age=20
+price=25.36
+
+print("my name is:",Name)
+print("my age is:",Age)
