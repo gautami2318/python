@@ -1,0 +1,6 @@
+name="Gautami"
+age=20
+price=25.36
+print(type(name))
+print(type(age))
+print(type(price))
