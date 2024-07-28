@@ -1,0 +1,6 @@
+
+#input floating 2 piont numbers & their avg.
+A=float(input("enter 1st number :"))
+B=float(input("enter 2nd number :"))
+avg=(A+B)/2
+print("average of numbers :",avg)
