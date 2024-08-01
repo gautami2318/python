@@ -1,0 +1,13 @@
+#length of string
+str1="Gautami"
+len1=len(str1)
+print(len1)
+
+str2="Patil"
+len2=len(str2)
+print(len2)
+
+final_str=ste1+str2
+print(final_str)
+
+
