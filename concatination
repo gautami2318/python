@@ -1,0 +1,8 @@
+#concatination
+str1="Gautami"
+str2="Patil"
+print(str1+str2)
+ 
+
+
+
