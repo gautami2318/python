@@ -1,0 +1,11 @@
+# Element-wise addition
+arr3 = arr1 + 5
+print("Array after adding 5:", arr3)
+
+# Element-wise multiplication
+arr4 = arr1 * 2
+print("Array after multiplication by 2:", arr4)
+
+# Matrix multiplication (dot product)
+arr5 = np.dot(arr2, np.array([1, 0]))  # Multiply matrix by vector
+print("Matrix multiplication result:", arr5)
