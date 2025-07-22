@@ -1,3 +1,5 @@
 text = "Gautami Patil , B.tech CSE(AI)."
 words = text.split(",")
 print(words)
+limited = text.split(' ', 2)
+print(limited)
