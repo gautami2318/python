@@ -1,0 +1,3 @@
+text = "Gautami Patil , B.tech CSE(AI)."
+words = text.split(",")
+print(words)
