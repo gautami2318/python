@@ -1,0 +1,6 @@
+myFile = open("demo.txt","r")
+data = myFile.read()
+print(data)
+print(type(data))
+
+myFile.close()
