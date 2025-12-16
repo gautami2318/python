@@ -1,0 +1,11 @@
+class Student:
+  
+    def __init__(self, fullname):
+        self.name = fullname
+        print("Adding New Student database..")
+        
+s1 = Student("Gautami")
+print(s1.name)
+
+s2 = Student("Manthan")
+print(s2.name)
