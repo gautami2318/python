@@ -1,0 +1,14 @@
+import random
+n=100
+randomNum =  random.randint(1,n)
+
+while(True):
+    userInput = int(input(f"Guess a ramdom number between 1 to {n} = "))
+    if(userInput == randomNum):
+       print(f" You won !!")
+       break
+    elif(userInput< randomNum) :
+       print("Guess a higher number ")
+    else:
+     print("Guess a lower number ")
+   
